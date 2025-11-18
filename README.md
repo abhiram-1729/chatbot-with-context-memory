@@ -1,6 +1,5 @@
 
-# Chatbot with Memory (Video Editing)
-
+# Simple Chatbot with Memory 
 This is a small Python project that provides a chatbot prototype with simple memory capabilities. It's intended as a starting point for building assistant tools that help with video editing workflows and related tasks.
 
 Files
